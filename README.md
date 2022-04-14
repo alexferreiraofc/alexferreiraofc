@@ -1,5 +1,5 @@
 👋| Olá, meu nome é Alex, atualmente sou estudante de análise e desenvolvimento de sistemas. Meus conhecimentos atualmente são back-end.                                                        
-✍️| Atualmente tenho mais contato com Java, Mysql, Python, C#, Docker e ambiente linux(ubuntu).
+✍️| Atualmente tenho mais contato com Java, Spring, Android, Kotlin, Docker e ambiente linux(ubuntu).
 
 <div align="center">
   <a href="https://github.com/alexferreiraofc">
