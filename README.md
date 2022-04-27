@@ -1,16 +1,32 @@
-👋| Olá, meu nome é Alex, atualmente sou estudante de Análise e Desenvolvimento de Sistemas. Meus conhecimentos atualmente são back-end.                                                        
-✍️| Atualmente tenho mais contato com Java, Spring, Android, Kotlin, Docker e ambiente linux(ubuntu).
+Hi 👋 My name is Alex Ferreira
+==============================
 
-<div align="center">
-  <a href="https://github.com/alexferreiraofc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexferreiraofc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexferreiraofc&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Giga-Java" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Giga-Spring" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="Giga-AndroidS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
-  <img align="center" alt="Giga-Kotlin" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Giga-AndroidS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Giga-Mysql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-</div>
+Java backend developer
+----------------------
+
+i've been learning code for almost 1 year. Focusing in Java as a backend developer with spring boot and hibernate framework. I have knowledge in JUnit5 and Mockito testings. I have knowledge with databases MySQL & PostgresSQL.
+
+* 🌍  I'm based in Florianopolis
+* ✉️  You can contact me at [alex.ferreiraofc@gmail.com](mailto:alex.ferreiraofc@gmail.com)
+* 🧠  I'm learning Flutter for fun
+
+### Skills
+
+<p align="left">
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="36" height="36" alt="SpringBoot" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/alexferreiraofc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/alexferreiraofc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/alexferreiraofc"><img src="https://github-readme-stats.vercel.app/api?username=alexferreiraofc&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="alexferreiraofc's GitHub stats" /></a>
+
+<a href="https://github.com/alexferreiraofc" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexferreiraofc&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
