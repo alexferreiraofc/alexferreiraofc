@@ -8,7 +8,7 @@ i've been learning code for almost 1 year. Focusing in Java as a backend develop
 
 * 🌍  I'm based in Florianopolis
 * ✉️  You can contact me at my socials
-* 🧠  I'm learning Flutter for fun
+* 🧠  I'm learning Mobile for fun
 
 ### Skills
 
@@ -16,7 +16,7 @@ i've been learning code for almost 1 year. Focusing in Java as a backend develop
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="36" height="36" alt="SpringBoot" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+
 
 
 ### Socials
