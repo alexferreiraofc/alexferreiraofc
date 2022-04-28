@@ -4,9 +4,7 @@ Hi 👋 My name is Alex Ferreira
 Java backend developer
 ----------------------
 
-i've been learning code for almost 1 year. Focusing in Java as a backend developer with spring boot and hibernate framework. I have knowledge in JUnit5 and Mockito testings. I have knowledge with databases MySQL & PostgresSQL.
-
-* 🌍  I'm based in Florianopolis
+* 🌍  I'm based in Brazil
 * ✉️  You can contact me at my socials
 * 🧠  I'm learning Mobile for fun
 
