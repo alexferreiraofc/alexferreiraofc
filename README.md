@@ -5,8 +5,8 @@ Java backend developer
 ----------------------
 
 * 🌍  I'm based in Brazil
+* 🧠  I'm a Java developer
 * ✉️  You can contact me at my socials
-* 🧠  I'm learning Mobile for fun
 
 ### Skills
 
